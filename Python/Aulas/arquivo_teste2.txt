@@ -1,0 +1,4 @@
+1ª Linha de texto 2ª Linha de texto sem colocar a quebra de linha contrabarra n
+2ª Linha de texto com contrabarra
+3ª Linha de texto pensando em não substituir as anteriores
+5ª Linha de texto sem substituir as anteriores
